@@ -1,4 +1,4 @@
-const players = require("../data/players.json");
+const players = require("../../data/players.json");
 
 export default function handler(req, res) {
   const query = req.query.q?.toLowerCase() || "";
