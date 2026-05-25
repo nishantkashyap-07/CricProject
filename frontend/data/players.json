@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Virat_Kohli_in_PMO_New_Delhi.jpg/250px-Virat_Kohli_in_PMO_New_Delhi.jpg",
+    "description": "Virat Kohli is an Indian international cricketer and former captain of India. Known for consistency and aggressive batting."
+  },
+  {
+    "id": 2,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Steve_Smith_%28cricketer%29%2C_2014_%28cropped%29.jpg/960px-Steve_Smith_%28cricketer%29%2C_2014_%28cropped%29.jpg",
+    "description": "Steve Smith is an Australian top-order batter known for his unorthodox technique and high Test average."
+  },
+  {
+    "id": 3,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-rounder",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/3_14_Captain_Ben_%28cropped%29_%28cropped%29.jpg/250px-3_14_Captain_Ben_%28cropped%29_%28cropped%29.jpg",
+    "description": "Ben Stokes is an English all-rounder known for match-winning performances in ICC events."
+  },
+  {
+    "id": 4,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Jasprit_Bumrah_in_PMO_New_Delhi.jpg",
+    "description": "Jasprit Bumrah is India's premier fast bowler known for yorkers and death bowling skills."
+  },
+  {
+    "id": 5,
+    "name": "Rohit Sharma",
+    "country": "India",
+    "role": "Batsman",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Rohit_Sharma_2018.jpg",
+    "description": "Rohit Sharma is an Indian opener known for elegant stroke play and multiple double centuries in ODIs."
+  },
+  {
+    "id": 6,
+    "name": "KL Rahul",
+    "country": "India",
+    "role": "Wicketkeeper Batsman",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/KL_Rahul.jpg",
+    "description": "KL Rahul is a stylish Indian batter capable of playing across all formats."
+  },
+  {
+    "id": 7,
+    "name": "Hardik Pandya",
+    "country": "India",
+    "role": "All-rounder",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Hardik_Pandya.jpg",
+    "description": "Hardik Pandya is an Indian fast-bowling all-rounder known for explosive batting."
+  },
+  {
+    "id": 8,
+    "name": "MS Dhoni",
+    "country": "India",
+    "role": "Wicketkeeper Batsman",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/MS_Dhoni_2011.jpg",
+    "description": "MS Dhoni is one of the greatest captains in cricket history and a legendary finisher."
+  },
+  {
+    "id": 9,
+    "name": "Shubman Gill",
+    "country": "India",
+    "role": "Batsman",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Shubman_Gill.jpg",
+    "description": "Shubman Gill is a young Indian opener known for elegant batting technique."
+  },
+  {
+    "id": 10,
+    "name": "Joe Root",
+    "country": "England",
+    "role": "Batsman",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Joe_Root_2017.jpg",
+    "description": "Joe Root is an English batter famous for consistency in Test cricket."
+  },
+  {
+    "id": 11,
+    "name": "Jos Buttler",
+    "country": "England",
+    "role": "Wicketkeeper Batsman",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Jos_Buttler_2022.jpg",
+    "description": "Jos Buttler is an explosive English white-ball batter and wicketkeeper."
+  },
+  {
+    "id": 12,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Kane_Williamson.jpg",
+    "description": "Kane Williamson is known for calm leadership and technically sound batting."
+  },
+  {
+    "id": 13,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Trent_Boult.jpg",
+    "description": "Trent Boult is a left-arm pacer known for swing bowling."
+  },
+  {
+    "id": 14,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Babar_Azam.jpg",
+    "description": "Babar Azam is Pakistan's premier batter with excellent consistency."
+  },
+  {
+    "id": 15,
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Shaheen_Afridi.jpg",
+    "description": "Shaheen Afridi is a left-arm fast bowler known for pace and swing."
+  },
+  {
+    "id": 16,
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/David_Warner.jpg",
+    "description": "David Warner is an aggressive Australian opener across formats."
+  },
+  {
+    "id": 17,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "Bowler",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Pat_Cummins.jpg",
+    "description": "Pat Cummins is Australia's fast bowler and captain."
+  },
+  {
+    "id": 18,
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "role": "All-rounder",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Glenn_Maxwell.jpg",
+    "description": "Glenn Maxwell is famous for innovative and explosive batting."
+  },
+  {
+    "id": 19,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Rashid_Khan.jpg",
+    "description": "Rashid Khan is one of the world's best T20 leg spinners."
+  },
+  {
+    "id": 20,
+    "name": "Mohammad Nabi",
+    "country": "Afghanistan",
+    "role": "All-rounder",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Mohammad_Nabi.jpg",
+    "description": "Mohammad Nabi is an experienced Afghan all-rounder."
+  },
+  {
+    "id": 21,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "role": "Wicketkeeper Batsman",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Quinton_de_Kock.jpg",
+    "description": "Quinton de Kock is a destructive South African opener and wicketkeeper."
+  },
+  {
+    "id": 22,
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "role": "Bowler",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Kagiso_Rabada.jpg",
+    "description": "Kagiso Rabada is a fast bowler known for pace and aggression."
+  },
+  {
+    "id": 23,
+    "name": "Marnus Labuschagne",
+    "country": "Australia",
+    "role": "Batsman",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Marnus_Labuschagne.jpg",
+    "description": "Marnus Labuschagne is a top-ranked Australian Test batter."
+  },
+  {
+    "id": 24,
+    "name": "Suryakumar Yadav",
+    "country": "India",
+    "role": "Batsman",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Suryakumar_Yadav.jpg",
+    "description": "Suryakumar Yadav is known for innovative T20 batting."
+  }
+]
