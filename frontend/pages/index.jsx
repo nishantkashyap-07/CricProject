@@ -11,7 +11,7 @@ export default function Home() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/players")
+    fetch("/api/players")
       .then((res) => res.json())
       .then((data) => {
         setPlayers(data);

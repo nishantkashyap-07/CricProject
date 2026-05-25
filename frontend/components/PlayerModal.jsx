@@ -1,7 +1,6 @@
 var PlayerModal = ({ player, onClose }) => {
   if (!player) return null;
 
-  // set header gradient based on role
   var grad;
   if (player.role === "Batsman") {
     grad = "linear-gradient(135deg, #ffedd5, #fffbeb)";

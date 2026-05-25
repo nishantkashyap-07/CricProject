@@ -1,7 +1,4 @@
 var SearchBar = ({ searchTerm, onSearchChange }) => {
-  // TODO: add debounce
-  // TODO: add voice search lol
-
   return (
     <div style={{ maxWidth: 600, margin: "0 auto 28px auto", position: "relative" }}>
       <svg

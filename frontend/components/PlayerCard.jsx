@@ -1,6 +1,4 @@
 var PlayerCard = ({ player, onClick }) => {
-  // set badge color based on role
-
   var badgeBg, badgeText;
   if (player.role === "Batsman") {
     badgeBg = "#ffedd5";
@@ -18,7 +16,6 @@ var PlayerCard = ({ player, onClick }) => {
     badgeBg = "#fef3c7";
     badgeText = "#b45309";
   } else {
-    // fallback
     badgeBg = "#f3f4f6";
     badgeText = "#374151";
   }
